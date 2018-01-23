@@ -1,0 +1,54 @@
+{
+  "_from": "react-native-login-sdk",
+  "_id": "react-native@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-sPE1VXrO6U4dEc5s0PXKi0QLz8doHoTGQK8Lyhsl5ToiiKsSK/WP1vxJbhCl39Xn9L/aOVBJ5G0iHmoq95GNhw==",
+  "_location": "/react-native-login-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-login-sdk",
+    "name": "react-native-login-sdk",
+    "escapedName": "react-native-login-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-login-sdk/-/react-native-login-sdk-1.0.4.tgz",
+  "_shasum": "e189b1e6e7d107cf32f6d5c07271a415646abc68",
+  "_spec": "react-native-login-sdk",
+  "_where": "/home/ranvir/myProjects/Radha/react-native-login-sdk",
+  "author": {
+    "name": "Ranvir Gorai"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "It helps to auth in local or remote server for testing apps",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "react-native",
+    "login",
+    "auth",
+    "Ranvir",
+    "Tech",
+    "Jamshedpur"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-login-sdk",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
