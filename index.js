@@ -1,5 +1,5 @@
 import { AsyncStorage } from 'react-native';
-import { init, login, isLogin, register } from './src/api';
+import { init, login, isLogin, register } from './lib/api';
 
 const UNKNOWN_ERROR = 'There was an unknown error.';
 
